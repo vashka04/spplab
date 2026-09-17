@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\spo\spoLab1\spoLab1\x64\Debug\spoLab1.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\spo\spoLab1\spoLab1\x64\Debug\spoLab1.MyForm.resources
+C:\Users\Lenovo\Desktop\spo\spoLab1\spoLab1\x64\Debug\spoLab1.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\lab1Spo\spoLab1\x64\Debug\spoLab1.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\lab1Spo\spoLab1\x64\Debug\spoLab1.MyForm.resources
+C:\Users\Lenovo\Desktop\lab1Spo\spoLab1\x64\Debug\spoLab1.vcxproj.GenerateResource.cache
